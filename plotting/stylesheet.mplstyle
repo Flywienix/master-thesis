@@ -1,0 +1,22 @@
+# set fontstyle and options
+# tex.usetex: True # Libertine font desired, does not work out of the box, would need more setup
+font.size: 12
+axes.labelsize: 12
+legend.fontsize: 12
+xtick.labelsize: 12
+ytick.labelsize: 12
+font.family: STIXGeneral
+
+# remove padding
+figure.constrained_layout.use: True
+figure.constrained_layout.h_pad: 0.01
+figure.constrained_layout.w_pad: 0.01
+figure.constrained_layout.hspace: 0.03 # space between subplots
+figure.constrained_layout.wspace: 0.03
+
+# change ticks to face in instead of out
+xtick.direction: in
+ytick.direction: in
+
+# remove box around legend
+# legend.frameon: False

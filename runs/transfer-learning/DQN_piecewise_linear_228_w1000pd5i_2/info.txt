@@ -1,0 +1,3 @@
+python train.py DQN piecewise_linear 228 --price_forecast --independent_learners runs/price-forecast/DQN_piecewise_linear_18_w1000pd5_2/DQN_piecewise_linear_18_w1000pd5_2_model --sub_folder transfer-learning --seed 513951020
+system: home
+best episode: 456
