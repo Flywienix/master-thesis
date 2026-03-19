@@ -1,0 +1,3 @@
+python train.py DQN piecewise_linear 18 --price_forecast --sub_folder price-forecast --seed 1770040512
+
+best episode: 404

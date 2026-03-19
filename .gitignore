@@ -1,3 +1,5 @@
 /__pycache__
 /.venv/
 /plotting/__pycache__
+/mpc/.venv/
+/mpc/__pycache__

@@ -1,0 +1,3 @@
+python train.py PPO quadratic 18 --temperature_weight 1 --continuous_action_space --sub_folder method-comparison --seed 1154211640
+
+best episode: 2627

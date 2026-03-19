@@ -1,0 +1,3 @@
+python train.py PPO piecewise_quadratic 18 --price_forecast --continuous_action_space --sub_folder price-forecast --seed 2572919919
+
+best episode: 584
